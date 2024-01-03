@@ -1,12 +1,8 @@
 # Toktik - A Flutter Project
-
 ## Importante:
 Los videos no están incluídos en el repositorio, debido a que son muy pesados y GitHub no lo permite.
 
-Pueden descargar 8 videos de aquí:
-[Pexels Free Videos](https://www.pexels.com/search/videos/vertical/)
-
-Renombren esos videos así, ya que es lo que se encuentra en nuestro data source.
+Renombrar los videos así, ya que es lo que se encuentra en el data source.
 ```
 1.mp4
 2.mp4
